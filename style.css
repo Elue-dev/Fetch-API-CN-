@@ -33,22 +33,11 @@ button{
     color: #fff;
 }
 
-footer{
-    background-color: #f7f7f7;
-}
-
 footer p{
     text-align: center;
-    color: #000;
-    margin-top: 29rem;
+    margin-top: 20rem;
 }
 
 .error{
     color: red;
-}
-
-@media (max-width:420px){
-    footer p{
-        margin-top: 37rem;
-    }
 }

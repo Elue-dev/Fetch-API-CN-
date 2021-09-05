@@ -27,7 +27,7 @@ function getJokes(e) {
 
   if(number === ''){
       const error = document.querySelector('.error');
-    error.textContent = 'Enter the amount of jokes you want to be fetched';
+    error.textContent = 'Please enter the amount of jokes you want to be fetched';
     error.style.paddingBottom = '1rem';
 }
 
